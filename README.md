@@ -1,1 +1,2 @@
 # Game-of-Thrones-I-algo
+This code solves the Game of Thrones - I problem by determining if a string can be rearranged into a palindrome. It counts character frequencies and checks the palindrome condition: even-length strings need all even character counts, while odd-length strings allow exactly one odd count. The algorithm efficiently verifies these conditions using a frequency array and returns "YES" if a palindrome arrangement is possible, otherwise "NO".
